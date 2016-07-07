@@ -43,7 +43,7 @@ activateClickStars();
 
 
 
-// Some copyright to this code may be held by clients of mine. 
+// Some copyright to this code may apply. 
 // So please use this only for reference or academic purposes only.
 // No licenses granted or warranties given whatsoever. Sorry.
 
