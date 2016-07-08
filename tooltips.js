@@ -48,11 +48,6 @@ activateClickStars();
 // No licenses granted or warranties given whatsoever. Sorry.
 
 
-/* 
-//Test URL:
-https://www5.unitymedia.de/privatkunden/aktionen/treueprodukt/?t=UEM-150325-1&sales_id=43311&tid=43311_UEC-00019
-*/
-
 /*
 #activeTooltip span {
     text-indent: 0;
