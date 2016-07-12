@@ -54,6 +54,12 @@ https://www5.unitymedia.de/privatkunden/aktionen/treueprodukt/?t=UEM-150325-1&sa
 */
 
 /*
+
+div#activeTooltip {
+    z-index: 1000;
+    position: absolute;
+}
+
 #activeTooltip span {
     text-indent: 0;
     color: black;
