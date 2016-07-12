@@ -43,15 +43,10 @@ activateClickStars();
 
 
 
-// Some copyright to this code may be held by clients of mine. 
+// Some copyright to this code may apply. 
 // So please use this only for reference or academic purposes only.
 // No licenses granted or warranties given whatsoever. Sorry.
 
-
-/* 
-//Test URL:
-https://www5.unitymedia.de/privatkunden/aktionen/treueprodukt/?t=UEM-150325-1&sales_id=43311&tid=43311_UEC-00019
-*/
 
 /*
 
